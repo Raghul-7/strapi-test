@@ -33,7 +33,7 @@ function App() {
             />
             <ul className="flex gap-10 font-semibold capitalize text-lg">
               {Links.map((link: any) => (
-                <li key={id}>
+                <li key={link.id}>
                   <a href={link.Link_url}>{link.Link_Name}</a>
                 </li>
               ))}
