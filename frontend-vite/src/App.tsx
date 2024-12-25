@@ -17,6 +17,9 @@ function App() {
     FetchApi();
   }, []);
 
+  
+  
+
   return (
     <header className="">
       {navbarData.map((item: any) => {

@@ -1,0 +1,18 @@
+{
+    "data": {
+      "title": "Understanding Strapi CMS",
+      "content": "Strapi is an open-source headless CMS that enables developers to create powerful APIs quickly. In this data we explore its features and benefits.",
+      "author": "Alice Johnson"
+    },
+    "data": {
+      "title": "Migrating Data to Strapi",
+      "content": "Learn how to migrate data from an old CMS to Strapi. This guide provides a step-by-step process for a seamless transition.",
+      "author": "Bob Smith"
+    },
+    "data": {
+      "title": "Customizing Strapi with Plugins",
+      "content": "Strapi's ecosystem supports a variety of plugins. Discover how to extend your CMS's functionality with plugins.",
+      "author": "Charlie Brown"
+    }
+  }
+
